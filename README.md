@@ -1,2 +1,1 @@
-# starship-farmer
-grow app
+// README.md - placeholder content for Starship Farmer
